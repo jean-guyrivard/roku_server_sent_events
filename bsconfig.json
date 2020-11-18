@@ -1,0 +1,9 @@
+{
+  "files": [
+    "assets/**/*",
+    "components/**/*",
+    "manifest",
+    "source/**/*"
+  ],
+  "watch": true
+}

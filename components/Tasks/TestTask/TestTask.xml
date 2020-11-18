@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- ##COPYRIGHT HEADER## -->
+
+<component name="TestTask" extends="Task">
+  <script type="text/brightscript" uri="TestTask.brs" />
+  <script type="text/brightscript" uri="pkg:/source/roServerEvents.brs" />
+
+  <interface>
+    <field id="event" type="assocarray" alwaysNotify="true" />
+  </interface>
+
+  <children>
+  </children>
+</component>

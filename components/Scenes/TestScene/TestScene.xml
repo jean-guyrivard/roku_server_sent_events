@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- ##COPYRIGHT HEADER## -->
+
+<component name="TestScene" extends="Scene">
+  <script type="text/brightscript" uri="TestScene.brs" />
+
+  <interface>
+    <field id="exitApplication" type="boolean" value="false" />
+  </interface>
+
+  <children>
+  </children>
+</component>
